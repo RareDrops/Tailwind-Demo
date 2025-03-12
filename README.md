@@ -1,6 +1,6 @@
-# Tailwind Demo Guide
+# TailwindCSS QuickStart Guide
  
-# Tailwind Setup
+## Tailwind Setup
 
 https://tailwindcss.com/
 
@@ -78,7 +78,7 @@ This is what your project directory should look like this repository after follo
 
 ---
 
-# Tailwind Documentation
+## Tailwind Documentation
 
 You can visit the docs to browse the documentation, but it’s often helpful to use the search function and just search whatever style that you need. 
 
