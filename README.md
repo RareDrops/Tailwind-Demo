@@ -83,9 +83,7 @@ This is what your project directory should look like this repository after follo
 You can visit the docs to browse the documentation, but it’s often helpful to use the search function and just search whatever style that you need. 
 
 - **Shortcut**: `ctrl + k`
-- Link to docs →
-    
-    https://tailwindcss.com/docs/styling-with-utility-classes
+- Link to docs → https://tailwindcss.com/docs/styling-with-utility-classes
     
 
 ---
