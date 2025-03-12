@@ -64,9 +64,7 @@ https://tailwindcss.com/
     
 7. **Final Check**
 
-This is what your project directory should look like this repository after following these steps. `README.md`, `LICENSE`, `.gitattributes` can be ignored.
-
-[output.css](src/output.css), [input.css](src/input.css), [index.html](build/index.html)
+    Your Project directory should look like this repository after following these steps. `README.md`, `LICENSE`, `.gitattributes` can be ignored.
 
 ---
 
