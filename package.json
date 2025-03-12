@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RareDrops/Tailwind-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RareDrops/Tailwind-Demo/issues"
+  },
+  "homepage": "https://github.com/RareDrops/Tailwind-Demo#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.13",
+    "tailwindcss": "^4.0.13"
+  }
+}
